@@ -109,7 +109,7 @@ Demonstrated skills in data integration, natural language processing, and intera
 
 <table align="center">
   <tr align="center">
-    <td><img src="https://huggingface.co/spaces/arif97/Retrieval-Augmented-Generation/resolve/main/Images/RAGWorkflow-ezgif.com-optimize.gif" width="1000" alt="RAG"></td>
+    <td><img src="https://huggingface.co/spaces/arif97/Retrieval-Augmented-Generation/resolve/main/Images/RAGWorkflow-ezgif.com-optimize.gif" width="800" alt="RAG"></td>
   </tr>
 </table>
 <br>
