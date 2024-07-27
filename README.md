@@ -103,3 +103,19 @@ Enhanced user experience through interactive visual elements and animations.
 Enabled dynamic knowledge base creation using user-provided data and web scraping, improving the relevance and accuracy of LLM responses.
 Provided insights and visual feedback on user queries and model responses, improving user engagement and understanding.
 Demonstrated skills in data integration, natural language processing, and interactive application development, highlighting proficiency in AI and Python.
+
+
+- Complete Infrastructure / High Level Overview of the System:
+
+<table align="center">
+  <tr align="center">
+    <td><img src="https://huggingface.co/spaces/arif97/Retrieval-Augmented-Generation/resolve/main/Images/RAGWorkflow-ezgif.com-optimize.gif" width="1000" alt="RAG"></td>
+  </tr>
+</table>
+<br>
+
+
+
+
+
+
